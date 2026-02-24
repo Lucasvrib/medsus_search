@@ -37,9 +37,8 @@ Foi desenvolvido um scraper para buscar o código CATMAT no portal do governo.
 
 Arquivo: scraper.py
 
+---
 
 #### Projeto: Medsus Search
 #### Autor: Lucas Viana Ribeiro
 #### Licença: MIT
-Licença: MIT
-"""
