@@ -1,0 +1,13 @@
+pandas
+
+requests
+
+streamlit
+
+python-dotenv
+
+unicodedata
+
+selenium
+
+webdriver-manager
