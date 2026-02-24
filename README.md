@@ -36,3 +36,9 @@ Permitir a visualização do estoque real de medicamentos por local (CNES), cons
 Foi desenvolvido um scraper para buscar o código CATMAT no portal do governo.
 
 Arquivo: scraper.py
+
+"""
+Projeto: Medsus Search
+Autor: Lucas Viana Ribeiro
+Licença: MIT
+"""
